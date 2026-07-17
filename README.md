@@ -4,11 +4,11 @@ I am umeh ogochukwu an aspiring AI Engineer documenting my journey into the word
 I choose Machine Learning because it combines data, mathematics, programming and problem-solving to build systems that can make intelligent decisions. As i continue to learn, I aim to understand not just how models work but how to use them to solve problems.
 
 ### Tools Used
--Jupyter Notebook
--Google Colab
+- Jupyter Notebook
+- Google Colab
 
 ### Libraries Used
--pandas
--numpy
--matplotlib
--scikit-learn
+- pandas
+- numpy
+- matplotlib
+- scikit-learn
